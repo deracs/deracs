@@ -1,8 +1,8 @@
 ## Welcome to Michael Goldsmith's GitHub Profile
-- 🔭 I’m currently working on ML/AI/Data research projects
-- 🌱 I’m currently learning python
+- 🔭 I’m currently working on ML/AI/Data research projects 
+- 📫 How to reach me: 
 
-<a href="https://twitter.com/deracs"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/deracs/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/deracs"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
+<a href="https://twitter.com/deracs"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/deracs"><img src="https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png?w=150" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/deracs/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/deracs"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
 
 
 
